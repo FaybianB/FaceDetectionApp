@@ -23,7 +23,7 @@ pip install opencv-python
 Clone the repository or download the source code:
 
 ```
-git clone https://your-repository-link/FaceDetectionApp.git
+git clone https://FaybianB/FaceDetectionApp.git
 ```
 
 Navigate to the downloaded directory:
